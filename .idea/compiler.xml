@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-classes-java" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-classes-java.main" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-classes-java.test" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-generated-sources-annotationProcessor-java" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-generated-sources-annotationProcessor-java.main" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-generated-sources-annotationProcessor-java.test" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-generated-sources-headers-java" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-generated-sources-headers-java.main" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-generated-sources-headers-java.test" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-reports-tests" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-reports-tests.main" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-reports-tests.test" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-test-results" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-test-results.main" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-test-results.test" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-tmp" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-tmp.main" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task-build-tmp.test" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task.main" target="17" />
+      <module name="Readability_Score_(Java).Readability_Score__Java_-task.test" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-BadRequestException" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-BadRequestException.main" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-BadRequestException.test" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-Base_class" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-Base_class.main" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-Base_class.test" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-Subclasses_of_Exception" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-Subclasses_of_Exception.main" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-Subclasses_of_Exception.test" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-The_base_class" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-The_base_class.main" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-The_base_class.test" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-Theory" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-Theory.main" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-Theory.test" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-Unchecked_exceptions" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-Unchecked_exceptions.main" target="17" />
+      <module name="Readability_Score_(Java).Topics-Hierarchy_of_exceptions-Unchecked_exceptions.test" target="17" />
+      <module name="Readability_Score_(Java).Topics-Math_library-Existing_methods" target="17" />
+      <module name="Readability_Score_(Java).Topics-Math_library-Existing_methods.main" target="17" />
+      <module name="Readability_Score_(Java).Topics-Math_library-Existing_methods.test" target="17" />
+      <module name="Readability_Score_(Java).Topics-Math_library-The_angle_between_vectors" target="17" />
+      <module name="Readability_Score_(Java).Topics-Math_library-The_angle_between_vectors.main" target="17" />
+      <module name="Readability_Score_(Java).Topics-Math_library-The_angle_between_vectors.test" target="17" />
+      <module name="Readability_Score_(Java).Topics-Math_library-Theory" target="17" />
+      <module name="Readability_Score_(Java).Topics-Math_library-Theory.main" target="17" />
+      <module name="Readability_Score_(Java).Topics-Math_library-Theory.test" target="17" />
+      <module name="Readability_Score_(Java).Topics-Math_library-What_does_random_produce" target="17" />
+      <module name="Readability_Score_(Java).Topics-Math_library-What_does_random_produce.main" target="17" />
+      <module name="Readability_Score_(Java).Topics-Math_library-What_does_random_produce.test" target="17" />
+      <module name="Readability_Score_(Java).util" target="17" />
+      <module name="Readability_Score_(Java).util.main" target="17" />
+      <module name="Readability_Score_(Java).util.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

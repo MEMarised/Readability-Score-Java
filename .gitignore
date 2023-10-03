@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Readability Score (Java)/task/build/
+/Readability Score (Java)/task/out/
+/Readability Score (Java)/task/out/production/classes/
+/Topics/Math library/The angle between vectors/out/
+/Topics/Math library/The angle between vectors/out/production/classes/

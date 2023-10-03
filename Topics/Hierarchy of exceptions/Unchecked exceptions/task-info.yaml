@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: UncheckedException
+  - text: Exception
+  - text: Throwable
+  - text: RuntimeException
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2464#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 03 Oct 2023 08:45:19 UTC"
+record: -1
+selected_options:
+  - 3
+local_check: false

@@ -1,0 +1,7 @@
+content:
+  - Theory
+  - The base class
+  - Subclasses of Exception
+  - BadRequestException
+  - Base class
+  - Unchecked exceptions

@@ -1,0 +1,28 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    highlight_level: NONE
+    text: |-
+      // update the class
+      class MyException extends ...{
+      
+      }
+      
+      //do not change the code
+      class Main {
+          public static void main(String[] args) {
+              MyException myException = new MyException("This is a custom exception");
+              System.out.println(myException.getMessage());
+              Class<?> superClass = myException.getClass().getSuperclass();
+              System.out.println(superClass.equals(Throwable.class));
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16173#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 30 Sep 2023 14:49:49 UTC"
+record: -1
+submission_language: java17
